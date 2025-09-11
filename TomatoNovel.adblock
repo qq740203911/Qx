@@ -6,6 +6,7 @@
 // ==/UserScript==
 
 # hostname = *.pangolin-sdk-toutiao.com,*.pangolin-sdk-toutiao*.com,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp.com.*,*.pglstatp-toutiao.com.*,*.pglstatp-toutiao.com,gurd.snssdk.com,gurd.snssdk.com.*,*default.ixigua.com,adim.pinduoduo.com,mktm.jd.com,*.fqnovelpic.com,*.fqnovelvod.com
+# 删除 *.fqnovelpic.com,
 hostname = *.pangolin-sdk-toutiao.com,*.pangolin-sdk-toutiao*.com,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp.com.*,*.pglstatp-toutiao.com.*,*.pglstatp-toutiao.com,gurd.snssdk.com,gurd.snssdk.com.*,*default.ixigua.com,adim.pinduoduo.com,mktm.jd.com,*.fqnovelvod.com
 
 # 番茄小说去章末广告
