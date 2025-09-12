@@ -1,6 +1,7 @@
 # 去广告 直连
 # host-wildcard,pull-*.douyincdn.com,全球直连
 # host-wildcard,p*-reading-sign.fqnovelpic.com,全球直连
+# host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,全球直连
 
 
 # > TomatoNovel 番茄小说
@@ -17,7 +18,7 @@ host-wildcard,v*-novelapp.fqnovelvod.com,reject
 
 # >> Toutiao & Douyin ADs
 host,toutiao-frontier.snssdk.com,reject
-host-suffix,api-access.pangolin-sdk-toutiao.com,reject
+host,api-access.pangolin-sdk-toutiao.com,reject
 host-wildcard,api-access.pangolin-sdk-toutiao*.com,reject
 host-wildcard,lf*-ad-union-sdk.pglstatp-toutiao.com,reject
 host-wildcard,p*-ad-sign.byteimg.com,reject
@@ -33,15 +34,15 @@ host-wildcard,mssdk*-normal-lf.zijieapi.com,reject
 host-wildcard,polaris*-normal-lf.zijieapi.com,reject
 host-wildcard,tnc*-aliec*.zijieapi.com,reject
 host-wildcard,tnc*-alisc*.zijieapi.com,reject
-host-suffix,imapi5-oth-If.zijieapi.com,reject
-host-suffix,rtapplog.zijieapi.com,reject
+host,imapi5-oth-If.zijieapi.com,reject
+host,rtapplog.zijieapi.com,reject
 
 # >> SNS SDK
-host-suffix,i.snssdk.com,reject
-host-suffix,i-lq.snssdk.com,reject
-host-suffix,is.snssdk.com,reject
-host-suffix,mcs.snssdk.com,reject
-host-suffix,vas-lf-x.snssdk.com,reject
+host,i.snssdk.com,reject
+host,i-lq.snssdk.com,reject
+host,is.snssdk.com,reject
+host,mcs.snssdk.com,reject
+host,vas-lf-x.snssdk.com,reject
 host-wildcard,tnc*-bjlgy.snssdk.com,reject
 
 # >> Other Domains
@@ -54,7 +55,7 @@ host,dig.bdurl.net,reject
 host,msync-im1-vip6-std.easemob.com,reject
 host,security-lq.snssdk.com,reject
 host,sf3-ttcdn-tos.pstatp.com,reject
-host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,reject
+# host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,reject
 
 # >> Other AD SDK
 host,mktm.jd.com,reject
