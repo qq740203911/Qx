@@ -38,12 +38,12 @@ host,imapi5-oth-If.zijieapi.com,reject
 host,rtapplog.zijieapi.com,reject
 
 # >> SNS SDK
-host,i.snssdk.com,reject
-host,i-lq.snssdk.com,reject
-host,is.snssdk.com,reject
-host,mcs.snssdk.com,reject
-host,vas-lf-x.snssdk.com,reject
-host-wildcard,tnc*-bjlgy.snssdk.com,reject
+# host,i.snssdk.com,reject
+# host,i-lq.snssdk.com,reject
+# host,is.snssdk.com,reject
+# host,mcs.snssdk.com,reject
+# host,vas-lf-x.snssdk.com,reject
+# host-wildcard,tnc*-bjlgy.snssdk.com,reject
 
 # >> Other Domains
 host-wildcard,*novelapp.ixigua.com,reject
@@ -53,7 +53,7 @@ host,activity-ag.awemeughun.com,reject
 host,activity-zhendingtech.com,reject
 host,dig.bdurl.net,reject
 host,msync-im1-vip6-std.easemob.com,reject
-host,security-lq.snssdk.com,reject
+# host,security-lq.snssdk.com,reject
 host,sf3-ttcdn-tos.pstatp.com,reject
 # host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,reject
 
