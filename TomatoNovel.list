@@ -58,16 +58,16 @@ host,sf3-ttcdn-tos.pstatp.com,reject
 # host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,reject
 
 # >> Other AD SDK
-host,mktm.jd.com,reject
-host,adim.pinduoduo.com,reject
-host,apm-m.pinduoduo.com,reject
-host,shark-tracer.netease.com,reject
+# host,mktm.jd.com,reject
+# host,adim.pinduoduo.com,reject
+# host,apm-m.pinduoduo.com,reject
+# host,shark-tracer.netease.com,reject
 
 
 # >> IP-CIDR
-ip-cidr,49.71.37.101/32,reject
-ip-cidr,117.71.105.23/32,reject
-ip-cidr,218.94.207.205/32,reject
-ip-cidr,117.92.229.188/32,reject
-ip-cidr,101.36.166.16/32,reject
-ip-cidr,180.96.2.114/32,reject
+# ip-cidr,49.71.37.101/32,reject
+# ip-cidr,117.71.105.23/32,reject
+# ip-cidr,218.94.207.205/32,reject
+# ip-cidr,117.92.229.188/32,reject
+# ip-cidr,101.36.166.16/32,reject
+# ip-cidr,180.96.2.114/32,reject
