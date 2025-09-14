@@ -23,7 +23,7 @@ host-wildcard,api-access.pangolin-sdk-toutiao*.com,reject
 host-wildcard,lf*-ad-union-sdk.pglstatp-toutiao.com,reject
 host-wildcard,p*-ad-sign.byteimg.com,reject
 # host-wildcard,p*-novel.byteimg.com,reject // 可疑域名，待验证
-host-wildcard,p*-webcast-sign.douyinpic.com,reject
+# host-wildcard,p*-webcast-sign.douyinpic.com,reject
 # host-wildcard,pull-*.douyincdn.com,reject     全球直连
 
 # >> Zijie AD API
