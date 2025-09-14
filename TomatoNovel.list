@@ -1,6 +1,8 @@
 # 去广告 直连
-# host-wildcard,pull-*.douyincdn.com,全球直连
 # host-wildcard,p*-reading-sign.fqnovelpic.com,全球直连
+# host-wildcard,p*-webcast-sign.douyinpic.com,全球直连
+# host-wildcard,pull-*.douyincdn.com,全球直连
+# host-suffix,snssdk.com,全球直连
 # host-suffix,lf-normal-gr-sourcecdn.bytegecko.com,全球直连
 
 
