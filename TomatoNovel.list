@@ -37,7 +37,7 @@ host-wildcard,polaris*-normal-lf.zijieapi.com,reject
 host-wildcard,tnc*-aliec*.zijieapi.com,reject
 host-wildcard,tnc*-aliec2.zijieapi.com,reject
 host-wildcard,tnc*-alisc*.zijieapi.com,reject
-host-suffix,tnc0-alisc1.zijieapi.com,reject
+# host-suffix,tnc0-alisc1.zijieapi.com,reject
 host-suffix,imapi5-oth-If.zijieapi.com,reject
 host-suffix,rtapplog.zijieapi.com,reject
 
